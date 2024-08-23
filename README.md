@@ -11,7 +11,7 @@ Throughout my career, I have tackled a diverse range of data projects. My passio
 ![Screenshot 2024-08-23 124249](https://github.com/user-attachments/assets/ce62786a-5a77-4099-acec-98fa112a7464)
 
 # Power Bi Projects
-# Coffe Shop Sales Dashboard
+# Coffee Shop Sales Dashboard
 ![CoffeShopSalesDashboard](https://github.com/user-attachments/assets/0b8b3336-ea3f-4fde-b583-590a4c5ee78e)
 
 # Airlines Flights Dashboard
