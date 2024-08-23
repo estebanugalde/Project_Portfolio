@@ -8,7 +8,8 @@ Throughout my career, I have tackled a diverse range of data projects. My passio
 
 # Tableau Projects
 # Champions League Dashboard
-![Screenshot 2024-08-23 124249](https://github.com/user-attachments/assets/ce62786a-5a77-4099-acec-98fa112a7464)
+![ChampionsLeagueDashboard](https://github.com/user-attachments/assets/326b4ff2-078b-4e1a-ba9b-b5cf4fc9caf3)
+
 
 # Power Bi Projects
 # Coffee Shop Sales Dashboard
